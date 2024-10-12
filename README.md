@@ -3,7 +3,7 @@
 This repository contains a regression model built to predict insurance charges based on patient demographic and health information. The model has been trained and evaluated using a variety of techniques to achieve an R-squared score of 87% on the test data.
 
 ## Primary Goal
-The primary goal of this project is to predict medical charges for individuals based on features such as:
+The primary goal of this project is to predict insurance charges for individuals based on features such as:
 - Age group
 - BMI (Body Mass Index)
 - Number of children
